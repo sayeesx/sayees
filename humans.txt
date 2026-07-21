@@ -1,0 +1,22 @@
+/* TEAM */
+Developer: Muhammed Sayees
+Role: AI Engineer, CTO, Full Stack Developer
+Location: Kerala, India
+Email: sayeesck@yahoo.com
+GitHub: sayeesx
+LinkedIn: msayees
+
+/* SITE */
+Standards: HTML5, CSS3, JavaScript ES6+
+Components: React, TypeScript, Node.js
+AI/ML: Python, LLMs, Machine Learning
+Design: Minimal, Clean, Accessible
+Fonts: Inter, Space Grotesk
+
+/* THANKS */
+To everyone who believes in building things that matter.
+To the open source community for endless inspiration.
+To my team at Narrs for pushing boundaries every day.
+
+/* LAST UPDATE */
+2026-07-22

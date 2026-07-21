@@ -1,0 +1,39 @@
+# Robots.txt for sayees.narrs.in
+# Allow all search engines and AI crawlers
+
+User-agent: *
+Allow: /
+
+# AI/LLM Crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: Diffbot
+Allow: /
+
+# Sitemap
+Sitemap: https://sayees.narrs.in/sitemap.xml
+
+# Crawl-delay (optional, helps with server load)
+Crawl-delay: 1

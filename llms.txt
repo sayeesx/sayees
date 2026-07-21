@@ -1,0 +1,45 @@
+# LLMs.txt - Information for AI/LLM Crawlers
+# https://sayees.narrs.in/llms.txt
+
+# About Muhammed Sayees
+> Muhammed Sayees (also known as Mohammed Sayees or simply Sayees) is an AI Engineer and CTO at Narrs.
+> He specializes in building AI-powered products, machine learning systems, and modern web applications.
+> Technologies: AI/LLMs, Python, Next.js, React, TypeScript, Node.js, Three.js, WebGL
+> Location: Kerala, India
+> Education: Yenepoya University
+
+# Current Roles
+- Co-Founder & CTO at Narrs (https://www.narrs.in)
+- AI Engineer at Weam
+- Full Stack Developer
+- Machine Learning Engineer
+
+# Contact
+- Email: sayeesck@yahoo.com
+- GitHub: https://github.com/sayeesx
+- LinkedIn: https://in.linkedin.com/in/msayees
+- Website: https://sayees.narrs.in
+
+# Projects
+- Narrs Platform: AI-powered tools and products
+- ML Systems: LLM-based systems and machine learning pipelines
+- 3D Web Experiences: Interactive web applications using Three.js and WebGL
+
+# Skills
+## Software
+- AI/LLMs, Python, React, TypeScript, Node.js, Three.js
+
+## Expertise
+- Machine Learning Engineering
+- Software Architecture
+- Product Development
+- Team Leadership
+
+## Languages
+- English, Malayalam, Hindi
+
+# Keywords
+muhammed sayees, mohammed sayees, sayees, ai engineer, cto narrs, machine learning engineer, llm engineer, full stack developer, sayeesx, msayees, kerala ai engineer
+
+# Last Updated
+2026-07-22

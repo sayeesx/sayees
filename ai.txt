@@ -1,0 +1,99 @@
+# AI.txt - Structured data for AI agents and crawlers
+# Domain: sayees.narrs.in
+# Last Updated: 2026-07-22
+
+## Identity
+name: Muhammed Sayees
+also_known_as: Mohammed Sayees, Sayees, msayees, sayeesx
+type: Person
+profession: AI Engineer, CTO, Full Stack Developer
+
+## Current Positions
+position_1:
+  title: Co-Founder & CTO
+  organization: Narrs
+  organization_url: https://www.narrs.in
+  location: Kerala, India
+  status: Current
+
+position_2:
+  title: AI Engineer
+  organization: Weam
+  focus: Machine Learning Systems, LLMs
+  status: Current
+
+## Education
+education:
+  institution: Yenepoya University
+  field: Computer Science
+  location: Kerala, India
+
+## Technical Skills
+ai_ml:
+  - Artificial Intelligence
+  - Large Language Models (LLMs)
+  - Machine Learning Engineering
+  - Natural Language Processing
+  - Model Fine-tuning
+
+programming_languages:
+  - Python
+  - TypeScript
+  - JavaScript
+  
+frameworks_libraries:
+  - Next.js
+  - React
+  - Node.js
+  - Three.js
+  - WebGL
+  - Tailwind CSS
+
+expertise:
+  - Software Architecture
+  - Product Development
+  - Team Leadership
+  - Full Stack Development
+  - 3D Web Development
+
+## Projects
+project_1:
+  name: Narrs Platform
+  description: AI-powered tools and products for teams
+  role: Technical Lead & Architecture
+  technologies: AI, LLMs, React, Python
+
+project_2:
+  name: ML Systems at Weam
+  description: Machine learning pipelines and LLM systems
+  role: AI Engineer
+  technologies: Python, ML, NLP
+
+project_3:
+  name: 3D Web Experiences
+  description: Interactive web applications with Three.js
+  technologies: WebGL, Three.js, React
+
+## Contact Information
+email: sayeesck@yahoo.com
+github: https://github.com/sayeesx
+linkedin: https://in.linkedin.com/in/msayees
+website: https://sayees.narrs.in
+
+## Availability
+open_to:
+  - AI/ML Consulting
+  - Technical Advisory
+  - Speaking Engagements
+  - Collaboration on AI Projects
+
+## Languages
+spoken_languages:
+  - English (Professional)
+  - Malayalam (Native)
+  - Hindi (Conversational)
+
+## Metadata
+last_updated: 2026-07-22
+version: 1.0
+crawl_permission: allowed
